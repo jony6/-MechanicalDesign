@@ -2,7 +2,8 @@
 ** 六自由度机械臂
 *** 腕关节正交结构机械臂，可以通过得到运动学解析解。
 ** 软体手爪
-*** \cite:@inproceedings{lin2017design,
+*** \cite:
+  @inproceedings{lin2017design,
   title={Design and Analysis of a Novel Sucked-Type Underactuated Hand with Multiple Grasping Modes},
   author={Lin, Nan and Wu, Peichen and Tan, Xiao and Zhu, Jinhua and Guo, Zhenjiang and Qi, Xinbo and Chen, Xiaoping},
   booktitle={International Conference on Robot Intelligence Technology and Applications},
