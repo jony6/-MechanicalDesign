@@ -4,7 +4,7 @@
 ** 软体手爪
 *** 自主研发的欠驱动柔性手爪，具有三种抓取模式，可以在非结构化环境中抓取各种尺寸、材质的物体，软体材料固有的柔性保证其抓取过程的安全性灵活性，表面采用微型吸盘阵列改善抓取力和抓取效果，同时附有真空气压、微型触碰开关等传感器，具有一定的自感知和自动抓取能力。
 *** Publications
-    +
+    + [[http://2017.icrita.org/?p=1051] Design and Analysis of a Novel Sucked-type Underactuated Hand with Multiple Grasping Modes]
     +
 *** \cite:
   @inproceedings{lin2017design,
