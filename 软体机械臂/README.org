@@ -1,3 +1,3 @@
 #+TITLE: 硅胶软体机械臂
   由变刚度软体硅胶结构构成。内部是硅胶空腔，通过控制充气气压可以调节结构刚度，外部由均匀分布的绳索拉线驱动。
-  More details is coming soon.
+  More details is coming soon after paper published.
