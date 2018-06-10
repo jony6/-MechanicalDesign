@@ -17,6 +17,6 @@
   organization={Springer}
 }
 ** 软体机械臂
-   硅胶变刚度软体机械臂，具有无限自由度.
+   [[https://github.com/fhln/-MechanicalDesign/tree/master/%E8%BD%AF%E4%BD%93%E6%9C%BA%E6%A2%B0%E8%87%82][硅胶变刚度软体机械臂，具有无限自由度]]
 ** 软体驱动器
    Coming soon..
