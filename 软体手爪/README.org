@@ -1,2 +1,3 @@
 #+TITLE: 软体手爪
 [[img/schematic.jpg]]
+柔性被动自适应手爪，结构如上图所示.可以抓取多种物体. 用于可佳机器人获得RoboCup@Home 2017 [[https://www.ustc.edu.cn/news/mtgz/201708/t20170803_280644.html][Best in Manipulation Award]] (Japan) 和 RiTA conference 2017 [[http://2017.icrita.org/?p=1051][Best Paper Award]] .
