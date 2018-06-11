@@ -2,5 +2,5 @@
 
 + 腕关节正交三自由度的机械臂.
 [[图纸/structure.jpg]]
-+ 开源图纸:solidworks格式[[https://github.com/fhln/MechanicalDesign/tree/master/%E5%85%AD%E8%87%AA%E7%94%B1%E5%BA%A6%E6%9C%BA%E6%A2%B0%E8%87%82/%E5%9B%BE%E7%BA%B8][图纸]]
++ 开源图纸:solidworks格式[[https://github.com/fhln/-MechanicalDesign/tree/master/%E5%85%AD%E8%87%AA%E7%94%B1%E5%BA%A6%E6%9C%BA%E6%A2%B0%E8%87%82/%E5%9B%BE%E7%BA%B8][图纸]]
   
